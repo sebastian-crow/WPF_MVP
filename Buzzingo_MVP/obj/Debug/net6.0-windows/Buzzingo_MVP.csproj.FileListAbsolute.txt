@@ -1,0 +1,5 @@
+C:\Users\SebastianBerrio\source\repos\Buzzingo_MVP\Buzzingo_MVP\obj\Debug\net6.0-windows\Buzzingo_MVP.csproj.AssemblyReference.cache
+C:\Users\SebastianBerrio\source\repos\Buzzingo_MVP\Buzzingo_MVP\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\SebastianBerrio\source\repos\Buzzingo_MVP\Buzzingo_MVP\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\SebastianBerrio\source\repos\Buzzingo_MVP\Buzzingo_MVP\obj\Debug\net6.0-windows\Buzzingo_MVP_MarkupCompile.cache
+C:\Users\SebastianBerrio\source\repos\Buzzingo_MVP\Buzzingo_MVP\obj\Debug\net6.0-windows\Buzzingo_MVP_MarkupCompile.lref
